@@ -13,9 +13,9 @@ molto meno *astratta*: una serie ordinata di *parole*, ciascuna di dimensioni
 implementare il sofisticato comportamento dinamico delle strutture di Python
 utilizzando la primitiva interfaccia della memoria? Per capirlo, utilizzeremo
 un ottimo livello di astrazione intermedio: il C. Il C difatti ci offre
-un'interfaccia alla memoria che astrae molto poco, rendendoci la visto comunque
+un'interfaccia alla memoria che astrae molto poco, rendendoci la vita comunque
 più facile di quanto succederebbe in codice macchina, o in assembler.
-Ma bando alle chiacchiere, andiamo subito sul pezzo...
+Ma bando alle ciance, andiamo subito sul pezzo...
 
 ## Mamma, da dove nascono le variabili? E quando muoiono, dove vanno?
 
