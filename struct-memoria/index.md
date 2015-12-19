@@ -39,15 +39,15 @@ dichiarare una struttura di tipo persona:
 A seguito di questa dichiarazione, verrà allocata memoria per contenere il
 puntatore a carattere `name` e l'intero `age`.
 
-I dati che costituiscono la struttura di chiamano "campi", e vi si può accedere
+I dati che costituiscono la struttura si chiamano "campi", e vi si può accedere
 così:
 
     p.nome = "Bob";
-    p.age = [[]]30;
+    p.age = 30;
     
 
 
-Come per ogni variabile, anche per `p` possiamo chiederci quale sia l'indirizzo
+Come per ogni variabile, anche per `p`, possiamo chiederci quale sia l'indirizzo
 a partire dal quale è memorizzata.
 
     address = &p;
